@@ -1,0 +1,13 @@
+-e git://github.com/Theano/Theano.git#egg=Theano
+numpy
+lasagne
+scipy
+sklearn
+
+# this is a backport of the python 3 pathlib
+pathlib2
+
+memory_profiler
+pytest
+psutil
+addict
