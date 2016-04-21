@@ -11,3 +11,4 @@ memory_profiler
 pytest
 psutil
 addict
+plotly
